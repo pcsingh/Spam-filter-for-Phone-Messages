@@ -1,2 +1,2 @@
 # Spam-filter-for-Phone-Messages
-A Spam filter for phone messages using a multinomial Naive Bayes algorithm.
+We build a spam filter for SMS messages using the multinomial Naive Bayes algorithm. Our goal is to write a program that classifies new messages.
